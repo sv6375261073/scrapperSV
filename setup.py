@@ -23,7 +23,7 @@ setuptools.setup(
     install_requires=["requests",
 			"beautifulsoup4==4.9.2",
 			"imageio==2.9.0",
-			"lxml==4.5.2",
+			"lxml==4.6.3",
 			"matplotlib",
 			"numpy",
 			"pandas",
