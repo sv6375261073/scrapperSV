@@ -27,6 +27,6 @@ setuptools.setup(
 			"matplotlib",
 			"numpy",
 			"pandas",
-			"Pillow==7.2.0",
+			"Pillow==8.2.0",
 			"selenium==3.141.0"]
 )
